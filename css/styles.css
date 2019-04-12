@@ -32,7 +32,7 @@
 }
 .fixed {
     border: 1px solid purple;
-    padding 10px;
+    padding: 10px;
     position: fixed;
     width: 150px;
     top: 0px;
