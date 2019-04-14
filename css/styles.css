@@ -8,6 +8,7 @@
     border: 1px solid blue;
     padding: 10px;
     position: relative;
+    font-family: 'archivo narrow';
 }
 .relative-2 {
     border: 1px solid red;
